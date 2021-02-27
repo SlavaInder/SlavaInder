@@ -1,5 +1,5 @@
 ### Hi there, I'm Slava  👋
-### (and this page looks best if viewed in the dark mode :smirk:)
+**(and this page looks best if viewed in the dark mode :smirk:)**
 
 
 <!--
