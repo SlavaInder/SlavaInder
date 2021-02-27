@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Slava  👋
+### (and this page looks best if viewed in the dark mode :smirk:)
+
 
 <!--
 **SlavaInder/SlavaInder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
