@@ -19,13 +19,13 @@ It's nice to meet you! My name is Viacheslav Inderiakin (Slava for short :relaxe
   <img alt="Viacheslav Inderiakin | Kaggle" height="20px" src="https://github.com/SlavaInder/SlavaInder/blob/main/assets/kaggle-transparent.svg" />
 </a>
 
-### Programming languages:
+**Programming languages:**
 
 [![Python](https://img.shields.io/badge/-Python-2e1a35?&logo=python&style=plastic&logoColor=white)](https://github.com/SlavaInder?tab=repositories&q=&type=&language=python)
 [![C](https://img.shields.io/badge/-C-2e1a35?&logo=C&style=plastic&logoColor=white)](https://github.com/SlavaInder?tab=repositories&q=&type=&language=C)
 [![C++](https://img.shields.io/badge/-C++-2e1a35?&logo=c%2b%2b&style=plastic&logoColor=white)](https://github.com/SlavaInder?tab=repositories&q=&type=&language=C++)
 
-### ML:
+**ML:**
 [![NumPy](https://img.shields.io/badge/NumPy-2e1a35?style=plastic&logo=NumPy&logoColor=white)]()
 [![Pandas](https://img.shields.io/badge/Pandas-2e1a35?style=plastic&logo=Pandas&logoColor=white)]()
 [![SciPy](https://img.shields.io/badge/SciPy-2e1a35?style=plastic&logo=SciPy&logoColor=white)]()
@@ -33,16 +33,23 @@ It's nice to meet you! My name is Viacheslav Inderiakin (Slava for short :relaxe
 [![Tensorflow](https://img.shields.io/badge/Tensorflow-2e1a35?style=plastic&logo=Tensorflow&logoColor=white)]()
 
 
-### Databases:
+**Databases:**
 [![MySQL](https://img.shields.io/badge/MySQL-2e1a35?style=plastic&logo=mysql&logoColor=white)]()
 
-### Tools:
+**Tools:**
 [![Flask](https://img.shields.io/badge/Flask-2e1a35?style=plastic&logo=flask&logoColor=white)]()
 [![Git](https://img.shields.io/badge/Git-2e1a35?style=plastic&logo=git&logoColor=white)]()
 [![Docker](https://img.shields.io/badge/Docker-2e1a35?style=plastic&logo=docker&logoColor=white)]()
 
 
-
+<table>
+  <tr>
+    <td valign="top">
+      <h3>Placeholder: </h3>
+      Placeholder
+    </td>
+  </tr>
+</table>
 
 
 <!--
