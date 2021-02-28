@@ -21,25 +21,25 @@ It's nice to meet you! My name is Viacheslav Inderiakin (Slava for short :relaxe
 
 ### Programming languages:
 
-[![Python](https://img.shields.io/badge/-Python-2e1a35?&logo=python&style=for-the-badge&logoColor=white)](https://github.com/SlavaInder?tab=repositories&q=&type=&language=python)
-[![C](https://img.shields.io/badge/-C-2e1a35?&logo=C&style=for-the-badge&logoColor=white)](https://github.com/SlavaInder?tab=repositories&q=&type=&language=C)
-[![C++](https://img.shields.io/badge/-C++-2e1a35?&logo=c%2b%2b&style=for-the-badge&logoColor=white)](https://github.com/SlavaInder?tab=repositories&q=&type=&language=C++)
+[![Python](https://img.shields.io/badge/-Python-2e1a35?&logo=python&style=plastic&logoColor=white)](https://github.com/SlavaInder?tab=repositories&q=&type=&language=python)
+[![C](https://img.shields.io/badge/-C-2e1a35?&logo=C&style=plastic&logoColor=white)](https://github.com/SlavaInder?tab=repositories&q=&type=&language=C)
+[![C++](https://img.shields.io/badge/-C++-2e1a35?&logo=c%2b%2b&style=plastic&logoColor=white)](https://github.com/SlavaInder?tab=repositories&q=&type=&language=C++)
 
 ### ML:
-[![NumPy](https://img.shields.io/badge/NumPy-2e1a35?style=for-the-badge&logo=NumPy&logoColor=white)]()
-[![Pandas](https://img.shields.io/badge/Pandas-2e1a35?style=for-the-badge&logo=Pandas&logoColor=white)]()
-[![SciPy](https://img.shields.io/badge/SciPy-2e1a35?style=for-the-badge&logo=SciPy&logoColor=white)]()
-[![Keras](https://img.shields.io/badge/Keras-2e1a35?style=for-the-badge&logo=Keras&logoColor=white)]()
-[![Tensorflow](https://img.shields.io/badge/Tensorflow-2e1a35?style=for-the-badge&logo=Tensorflow&logoColor=white)]()
+[![NumPy](https://img.shields.io/badge/NumPy-2e1a35?style=plastic&logo=NumPy&logoColor=white)]()
+[![Pandas](https://img.shields.io/badge/Pandas-2e1a35?style=plastic&logo=Pandas&logoColor=white)]()
+[![SciPy](https://img.shields.io/badge/SciPy-2e1a35?style=plastic&logo=SciPy&logoColor=white)]()
+[![Keras](https://img.shields.io/badge/Keras-2e1a35?style=fplastic&logo=Keras&logoColor=white)]()
+[![Tensorflow](https://img.shields.io/badge/Tensorflow-2e1a35?style=plastic&logo=Tensorflow&logoColor=white)]()
 
 
 ### Databases:
-[![MySQL](https://img.shields.io/badge/MySQL-2e1a35?style=for-the-badge&logo=mysql&logoColor=white)]()
+[![MySQL](https://img.shields.io/badge/MySQL-2e1a35?style=plastic&logo=mysql&logoColor=white)]()
 
 ### Tools:
-[![Flask](https://img.shields.io/badge/Flask-2e1a35?style=for-the-badge&logo=flask&logoColor=white)]()
-[![Git](https://img.shields.io/badge/Git-2e1a35?style=for-the-badge&logo=git&logoColor=white)]()
-[![Docker](https://img.shields.io/badge/Docker-2e1a35?style=for-the-badge&logo=docker&logoColor=white)]()
+[![Flask](https://img.shields.io/badge/Flask-2e1a35?style=plastic&logo=flask&logoColor=white)]()
+[![Git](https://img.shields.io/badge/Git-2e1a35?style=plastic&logo=git&logoColor=white)]()
+[![Docker](https://img.shields.io/badge/Docker-2e1a35?style=plastic&logo=docker&logoColor=white)]()
 
 
 
@@ -48,9 +48,12 @@ It's nice to meet you! My name is Viacheslav Inderiakin (Slava for short :relaxe
 <!--
 **SlavaInder/SlavaInder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Link with badges
+Link with badges:
 https://shields.io/
 https://simpleicons.org/?q=Numpy
+Smiles:
+https://gist.github.com/rxaviers/7360908
+
 
 Here are some ideas to get you started:
 
