@@ -19,7 +19,7 @@ It's nice to meet you! My name is Viacheslav Inderiakin (Slava for short :relaxe
   <img alt="Viacheslav Inderiakin | Kaggle" height="20px" src="https://github.com/SlavaInder/SlavaInder/blob/main/assets/kaggle-transparent.svg" />
 </a>
 
-<br/>
+
 **Programming languages:**
 
 [![Python](https://img.shields.io/badge/-Python-2e1a35?&logo=python&style=plastic&logoColor=white)](https://github.com/SlavaInder?tab=repositories&q=&type=&language=python)
