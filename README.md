@@ -23,7 +23,7 @@ It's nice to meet you! My name is Viacheslav Inderiakin (Slava for short 😉), 
 
 ### Programming languages:
 
-[![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/SlavaInder?tab=repositories&q=&type=&language=python)
+[![Python](https://img.shields.io/badge/-Python-pruple?&logo=python)](https://github.com/SlavaInder?tab=repositories&q=&type=&language=python)
 [![C](https://img.shields.io/badge/-C-000?&logo=C)](https://github.com/SlavaInder?tab=repositories&q=&type=&language=C)
 
 
