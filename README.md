@@ -17,7 +17,7 @@ It's nice to meet you! My name is Viacheslav Inderiakin (Slava for short :relaxe
 </a>
 <a href="https://www.kaggle.com/viacheslavinderiakin">
   <img alt="Viacheslav Inderiakin | Kaggle" height="20px" src="https://github.com/SlavaInder/SlavaInder/blob/main/assets/kaggle-transparent.svg" />
-</a>
+</a><br/><br/>
 
 
 **Programming languages:**
