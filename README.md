@@ -8,8 +8,11 @@
 It's nice to meet you! My name is Viacheslav Inderiakin (Slava for short 😉), and I'm a second-year MS student at University of California, Los Angeles. My interest lies in ML applications in IoT and Autonomous Driving, so I am well-versed in writing embedded C code and training ML models using Tensorflow. If you want to reach me out about anything, just ping me 😄
 
 <a href="https://www.linkedin.com/in/viacheslav-inderiakin-1b3410196/">
-  <img alt="Viacheslav Inderiakin | LinkedIn" width="20px" src="https://github.com/SlavaInder/SlavaInder/blob/main/assets/LI-In-Bug.png" />
+  <img alt="Viacheslav Inderiakin | LinkedIn" height="30px" src="https://github.com/SlavaInder/SlavaInder/blob/main/assets/LI-In-Bug.png" />
+</a><a href="https://www.kaggle.com/viacheslavinderiakin">
+  <img alt="Viacheslav Inderiakin | Kaggle" height="30px" src="https://github.com/SlavaInder/SlavaInder/blob/main/assets/kaggle-transparent.svg" />
 </a>
+
 
 ### Programming languages:
 
