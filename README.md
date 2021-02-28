@@ -45,17 +45,19 @@ It's nice to meet you! My name is Viacheslav Inderiakin (Slava for short :relaxe
 [![Git](https://img.shields.io/badge/Git-2e1a35?style=plastic&logo=git&logoColor=white)]()
 [![Docker](https://img.shields.io/badge/Docker-2e1a35?style=plastic&logo=docker&logoColor=white)]()
 
-
+<!--
 <table>
   <tr>
-    <td valign="top">
+    <td valign="middle">
       <h3>Placeholder: </h3>
-      [project website](https://pages.github.com/)
-      [project github](https://pages.github.com/)
+      <h3>Placeholder: </h3>
+    </td>
+    <td valign="middle">
+      <h3>Placeholder: </h3>
     </td>
   </tr>
 </table>
-
+-->
 
 <!--
 **SlavaInder/SlavaInder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
