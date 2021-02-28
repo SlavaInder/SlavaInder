@@ -7,7 +7,14 @@
 -->
 My name is Viacheslav Inderiakin (Slava for short), and I'm a second-year MS student at University of California, Los Angeles. My interest lies in ML applications in IoT and Autonomous Driving, so I am well-versed in writing embedded C code and training ML models using Tensorflow. If you want to reach me out about anything, just ping me 😄
 
-<i class="devicon-docker-plain-wordmark colored"></i>
+
+Programming languages:
+
+[![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/SlavaInder?tab=repositories&q=&type=&language=python)
+[![C](https://img.shields.io/badge/-C-000?&logo=C)](https://github.com/SlavaInder?tab=repositories&q=&type=&language=C)
+
+
+
 
 <!--
 **SlavaInder/SlavaInder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
