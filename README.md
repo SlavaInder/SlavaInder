@@ -11,6 +11,8 @@ It's nice to meet you! My name is Viacheslav Inderiakin (Slava for short 😉), 
   <img align="left" alt="Viacheslav Inderiakin | LinkedIn" width="20px" src="https://github.com/SlavaInder/SlavaInder/blob/main/assets/LI-In-Bug.png" />
 </a>
 
+
+
 ### Programming languages:
 
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/SlavaInder?tab=repositories&q=&type=&language=python)
