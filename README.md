@@ -2,10 +2,9 @@
 
 
 ### Hi there, I'm Slava  👋
-<!--
-**(and this page looks best if viewed in the dark mode 😉)**
--->
-It's nice to meet you! My name is Viacheslav Inderiakin (Slava for short 😉), and I'm a second-year MS student at University of California, Los Angeles. My interest lies in ML applications in IoT and Autonomous Driving, so I am well-versed in writing embedded C code and training ML models using Tensorflow. If you want to reach me out about anything, you can find me on these platforms 😄
+**(and this page looks best if viewed in the dark mode 😉)** 
+
+It's nice to meet you! My name is Viacheslav Inderiakin (Slava for short :relaxed:), and I'm a second-year MS student at University of California, Los Angeles. My interest lies in ML applications in IoT and Autonomous Driving, so I am well-versed in writing embedded C code and training ML models using Tensorflow. If you want to reach me out about anything, you can find me on these platforms 😄
 
 <a href="mailto:v.inderiakin.uk@gmail.com">
   <img alt="Viacheslav Inderiakin | Gmail" height="20px" src="https://github.com/SlavaInder/SlavaInder/blob/main/assets/my_gmail.png" />
