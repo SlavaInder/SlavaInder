@@ -19,15 +19,24 @@ It's nice to meet you! My name is Viacheslav Inderiakin (Slava for short :relaxe
   <img alt="Viacheslav Inderiakin | Kaggle" height="20px" src="https://github.com/SlavaInder/SlavaInder/blob/main/assets/kaggle-transparent.svg" />
 </a>
 
-
 ### Programming languages:
 
-[![Python](https://img.shields.io/badge/-Python-2e1a35?&logo=python&style=for-the-badge)](https://github.com/SlavaInder?tab=repositories&q=&type=&language=python)
-[![C](https://img.shields.io/badge/-C-2e1a35?&logo=C&style=for-the-badge)](https://github.com/SlavaInder?tab=repositories&q=&type=&language=C)
-[![C++](https://img.shields.io/badge/-C++-2e1a35?&logo=c%2b%2b&style=for-the-badge)](https://github.com/SlavaInder?tab=repositories&q=&type=&language=C++)
+[![Python](https://img.shields.io/badge/-Python-2e1a35?&logo=python&style=for-the-badge&logoColor=white)](https://github.com/SlavaInder?tab=repositories&q=&type=&language=python)
+[![C](https://img.shields.io/badge/-C-2e1a35?&logo=C&style=for-the-badge&logoColor=white)](https://github.com/SlavaInder?tab=repositories&q=&type=&language=C)
+[![C++](https://img.shields.io/badge/-C++-2e1a35?&logo=c%2b%2b&style=for-the-badge&logoColor=white)](https://github.com/SlavaInder?tab=repositories&q=&type=&language=C++)
 
+<!--
+### ML:
+[![C++](https://img.shields.io/badge/MySQL-2e1a35?style=for-the-badge&logo=mysql)](https://github.com/SlavaInder?tab=repositories&q=&type=&language=C++)
+-->
 
+### Databases:
+[![MySQL](https://img.shields.io/badge/MySQL-2e1a35?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/SlavaInder?tab=repositories&q=&type=&language=C++)
 
+### Tools:
+[![Flask](https://img.shields.io/badge/Flask-2e1a35?style=for-the-badge&logo=flask&logoColor=white)]()
+[![Git](https://img.shields.io/badge/Git-2e1a35?style=for-the-badge&logo=git&logoColor=white)]()
+[![Docker](https://img.shields.io/badge/Docker-2e1a35?style=for-the-badge&logo=docker&logoColor=white)]()
 <!--
 **SlavaInder/SlavaInder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
