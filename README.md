@@ -50,7 +50,8 @@ It's nice to meet you! My name is Viacheslav Inderiakin (Slava for short :relaxe
   <tr>
     <td valign="top">
       <h3>Placeholder: </h3>
-      Placeholder
+      [project website](https://pages.github.com/)
+      [project github](https://pages.github.com/)
     </td>
   </tr>
 </table>
@@ -64,7 +65,8 @@ https://shields.io/
 https://simpleicons.org/?q=Numpy
 Smiles:
 https://gist.github.com/rxaviers/7360908
-
+Color coverter:
+https://www.w3schools.com/colors/colors_rgb.asp
 
 Here are some ideas to get you started:
 
