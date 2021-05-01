@@ -1,1 +1,1 @@
-This folder containts
+This folder containts license information for the code and assets used in this repo. If you have any questions or believe your work was improperly credited, please, feel free to contact me at v.inderiakin.uk@gmail.com
