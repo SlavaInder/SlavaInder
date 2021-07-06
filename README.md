@@ -20,13 +20,13 @@
      <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-1572B6?style=flat-square&color=lightgrey&logo=MySQL&logoColor=white">
      <br>
      <img alt="Numpy" src="https://img.shields.io/badge/-Numpy-1572B6?style=flat-square&color=blue&logo=Numpy&logoColor=white">
-     <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-1572B6?style=flat-square&logo=Pandas&logoColor=white">
-     <img alt="SciPy" src="https://img.shields.io/badge/-SciPy-1572B6?style=flat-square&logo=SciPy&logoColor=white">
-     <img alt="Keras" src="https://img.shields.io/badge/-Keras-1572B6?style=flat-square&logo=Keras&logoColor=white">
-     <img alt="Tensorflow" src="https://img.shields.io/badge/-Tensorflow-1572B6?style=flat-square&logo=Tensorflow&logoColor=white">
-     <img alt="Flask" src="https://img.shields.io/badge/-Flask-1572B6?style=flat-square&logo=Flask&logoColor=white">
-     <img alt="Git" src="https://img.shields.io/badge/-Git-1572B6?style=flat-square&logo=Git&logoColor=white">
-     <img alt="Docker" src="https://img.shields.io/badge/-Docker-1572B6?style=flat-square&logo=Docker&logoColor=white">
+     <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-1572B6?style=flat-square&color=bluevolet&logo=Pandas&logoColor=white">
+     <img alt="SciPy" src="https://img.shields.io/badge/-SciPy-1572B6?style=flat-square&color=yellow&logo=SciPy&logoColor=white">
+     <img alt="Keras" src="https://img.shields.io/badge/-Keras-1572B6?style=flat-square&color=red&logo=Keras&logoColor=white">
+     <img alt="Tensorflow" src="https://img.shields.io/badge/-Tensorflow-1572B6?style=flat-square&color=orange&logo=Tensorflow&logoColor=white">
+     <img alt="Flask" src="https://img.shields.io/badge/-Flask-1572B6?style=flat-square&color=lightgrey&logo=Flask&logoColor=white">
+     <img alt="Git" src="https://img.shields.io/badge/-Git-1572B6?style=flat-square&color=orange&logo=Git&logoColor=white">
+     <img alt="Docker" src="https://img.shields.io/badge/-Docker-1572B6?style=flat-square&color=blue&logo=Docker&logoColor=white">
      <br>
   </samp>
   </p>
