@@ -16,17 +16,17 @@
      <img alt="C++" src="https://img.shields.io/badge/-C++-9b3675?style=flat-square&logo=C%2B%2B&logoColor=white">
      <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">
      <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white">
+     <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-1572B6?style=flat-square&logo=MySQL&logoColor=white">
      <br>
-     [![NumPy](https://img.shields.io/badge/NumPy-2e1a35?style=plastic&logo=NumPy&logoColor=white)]()
-     [![Pandas](https://img.shields.io/badge/Pandas-2e1a35?style=plastic&logo=Pandas&logoColor=white)]()
-     [![SciPy](https://img.shields.io/badge/SciPy-2e1a35?style=plastic&logo=SciPy&logoColor=white)]()
-     [![Keras](https://img.shields.io/badge/Keras-2e1a35?style=fplastic&logo=Keras&logoColor=white)]()
-     [![Tensorflow](https://img.shields.io/badge/Tensorflow-2e1a35?style=plastic&logo=Tensorflow&logoColor=white)]()
-     [![MySQL](https://img.shields.io/badge/MySQL-2e1a35?style=plastic&logo=mysql&logoColor=white)]()     
-     [![Flask](https://img.shields.io/badge/Flask-2e1a35?style=plastic&logo=flask&logoColor=white)]()
-     [![Git](https://img.shields.io/badge/Git-2e1a35?style=plastic&logo=git&logoColor=white)]()
-     [![Docker](https://img.shields.io/badge/Docker-2e1a35?style=plastic&logo=docker&logoColor=white)]()
-  <br>
+     <img alt="Numpy" src="https://img.shields.io/badge/-Numpy-1572B6?style=flat-square&logo=Numpy&logoColor=white">
+     <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-1572B6?style=flat-square&logo=Pandas&logoColor=white">
+     <img alt="SciPy" src="https://img.shields.io/badge/-SciPy-1572B6?style=flat-square&logo=SciPy&logoColor=white">
+     <img alt="Keras" src="https://img.shields.io/badge/-Keras-1572B6?style=flat-square&logo=Keras&logoColor=white">
+     <img alt="Tensorflow" src="https://img.shields.io/badge/-Tensorflow-1572B6?style=flat-square&logo=Tensorflow&logoColor=white">
+     <img alt="Flask" src="https://img.shields.io/badge/-Flask-1572B6?style=flat-square&logo=Flask&logoColor=white">
+     <img alt="Git" src="https://img.shields.io/badge/-Git-1572B6?style=flat-square&logo=Git&logoColor=white">
+     <img alt="Docker" src="https://img.shields.io/badge/-Docker-1572B6?style=flat-square&logo=Docker&logoColor=white">
+     <br>
   </samp>
   </p>
 </details>
