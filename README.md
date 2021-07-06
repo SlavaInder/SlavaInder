@@ -14,9 +14,9 @@
      <img alt="Python" src="https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=Python&logoColor=white">
      <img alt="C" src="https://img.shields.io/badge/-C-9b3675?style=flat-square&logo=C&logoColor=white">
      <img alt="C++" src="https://img.shields.io/badge/-C++-9b3675?style=flat-square&logo=C%2B%2B&logoColor=white">
-     <br>
      <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">
      <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white">
+     <br>
      [![NumPy](https://img.shields.io/badge/NumPy-2e1a35?style=plastic&logo=NumPy&logoColor=white)]()
      [![Pandas](https://img.shields.io/badge/Pandas-2e1a35?style=plastic&logo=Pandas&logoColor=white)]()
      [![SciPy](https://img.shields.io/badge/SciPy-2e1a35?style=plastic&logo=SciPy&logoColor=white)]()
