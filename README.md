@@ -1,5 +1,6 @@
+<!--
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.10.1/devicon.min.css">
-
+-->
 <h3 align="center"><samp>Hello! I am Viacheslav Inderiakin</a></b></samp></h3>
 <p align="center"><br>
   <samp>
