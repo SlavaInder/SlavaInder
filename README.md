@@ -12,7 +12,7 @@
    <p align="center">
      <br>
      <img alt="Python" src="https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=Python&logoColor=white">
-     <img alt="C++" src="https://img.shields.io/badge/-C++-3572A5?style=flat-square&logo=Python&logoColor=white">
+     <img alt="C++" src="https://img.shields.io/badge/-C++-3572A5?style=flat-square&logo=C++&logoColor=white">
      <br>
      [![NumPy](https://img.shields.io/badge/NumPy-2e1a35?style=plastic&logo=NumPy&logoColor=white)]()
      [![Pandas](https://img.shields.io/badge/Pandas-2e1a35?style=plastic&logo=Pandas&logoColor=white)]()
