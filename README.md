@@ -1,5 +1,43 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.10.1/devicon.min.css">
 
+<h3 align="center"><samp>Hello! I am Viacheslav Inderiakin</a></b></samp></h3>
+<p align="center"><br>
+  <samp>
+    「 Master of Science in Electrical and Electronics Engineering @ <b>University of Califronia, Los Angeles</b> 」<br>
+  </samp>
+</p>
+<details align="center">
+   <summary> <samp>&#9776; Details</samp></summary>
+   <p align="center">
+     <br>
+     [![Python](https://img.shields.io/badge/-Python-2e1a35?&logo=python&style=plastic&logoColor=white)](https://github.com/SlavaInder?tab=repositories&q=&type=&language=python)
+     [![C](https://img.shields.io/badge/-C-2e1a35?&logo=C&style=plastic&logoColor=white)](https://github.com/SlavaInder?tab=repositories&q=&type=&language=C)
+     [![C++](https://img.shields.io/badge/-C++-2e1a35?&logo=c%2b%2b&style=plastic&logoColor=white)](https://github.com/SlavaInder?tab=repositories&q=&type=&language=C++)
+  <br>
+     [![NumPy](https://img.shields.io/badge/NumPy-2e1a35?style=plastic&logo=NumPy&logoColor=white)]()
+     [![Pandas](https://img.shields.io/badge/Pandas-2e1a35?style=plastic&logo=Pandas&logoColor=white)]()
+     [![SciPy](https://img.shields.io/badge/SciPy-2e1a35?style=plastic&logo=SciPy&logoColor=white)]()
+     [![Keras](https://img.shields.io/badge/Keras-2e1a35?style=fplastic&logo=Keras&logoColor=white)]()
+     [![Tensorflow](https://img.shields.io/badge/Tensorflow-2e1a35?style=plastic&logo=Tensorflow&logoColor=white)]()
+     [![MySQL](https://img.shields.io/badge/MySQL-2e1a35?style=plastic&logo=mysql&logoColor=white)]()     
+     [![Flask](https://img.shields.io/badge/Flask-2e1a35?style=plastic&logo=flask&logoColor=white)]()
+     [![Git](https://img.shields.io/badge/Git-2e1a35?style=plastic&logo=git&logoColor=white)]()
+     [![Docker](https://img.shields.io/badge/Docker-2e1a35?style=plastic&logo=docker&logoColor=white)]()
+  <br>
+  </samp>
+  </p>
+</details>
+<br>
+<samp>
+  <p align="center">
+    ════ ⋆★⋆ ════<br>
+    From <a href="https://github.com/kevinjycui/kevinjycui">kevinjycui</a>
+  </p>
+</samp>
+
+
+<!--
+
 
 ### Hi there, I'm Slava  👋
 **(and this page looks best if viewed in the dark mode 😉)** 
@@ -45,7 +83,6 @@ It's nice to meet you! My name is Viacheslav Inderiakin (Slava for short :relaxe
 [![Git](https://img.shields.io/badge/Git-2e1a35?style=plastic&logo=git&logoColor=white)]()
 [![Docker](https://img.shields.io/badge/Docker-2e1a35?style=plastic&logo=docker&logoColor=white)]()
 
-<!--
 <table>
   <tr>
     <td valign="middle">
