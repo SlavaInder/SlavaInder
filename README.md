@@ -16,7 +16,7 @@
      <img alt="C++" src="https://img.shields.io/badge/-C++-9b3675?style=flat-square&logo=C%2B%2B&logoColor=white">
      <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">
      <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white">
-     <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-1572B6?style=flat-square&logo=MySQL&logoColor=white">
+     <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-1572B6?style=flat-square&color=lightgrey&logo=MySQL&logoColor=white">
      <br>
      <img alt="Numpy" src="https://img.shields.io/badge/-Numpy-1572B6?style=flat-square&logo=Numpy&logoColor=white">
      <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-1572B6?style=flat-square&logo=Pandas&logoColor=white">
