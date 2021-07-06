@@ -11,10 +11,8 @@
    <summary> <samp>&#9776; Details</samp></summary>
    <p align="center">
      <br>
-     [![Python](https://img.shields.io/badge/-Python-2e1a35?&logo=python&style=plastic&logoColor=white)](https://github.com/SlavaInder?tab=repositories&q=&type=&language=python)
-     [![C](https://img.shields.io/badge/-C-2e1a35?&logo=C&style=plastic&logoColor=white)](https://github.com/SlavaInder?tab=repositories&q=&type=&language=C)
-     [![C++](https://img.shields.io/badge/-C++-2e1a35?&logo=c%2b%2b&style=plastic&logoColor=white)](https://github.com/SlavaInder?tab=repositories&q=&type=&language=C++)
-  <br>
+     <img alt="Python" src="https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=Python&logoColor=white">
+     <br>
      [![NumPy](https://img.shields.io/badge/NumPy-2e1a35?style=plastic&logo=NumPy&logoColor=white)]()
      [![Pandas](https://img.shields.io/badge/Pandas-2e1a35?style=plastic&logo=Pandas&logoColor=white)]()
      [![SciPy](https://img.shields.io/badge/SciPy-2e1a35?style=plastic&logo=SciPy&logoColor=white)]()
